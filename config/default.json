@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://localhost:27017/pixel-mindDB",
+  "jwtSecret": "secret",
+  "jwtAdminSecret": "adminSecret",
+  "jwtEmployeeSecret": "employeeSecret"
+}
