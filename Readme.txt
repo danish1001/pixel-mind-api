@@ -27,3 +27,8 @@ app.use("/api/auth", require("./routes/auth"));
 // Get All blogs
 app.use("/api/blogs", require("./routes/blogs"));
 
+
+
+Authentication is done using JWT tokens
+There are some missing things because of time limit i was not able to complete.
+
